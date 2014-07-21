@@ -16,3 +16,8 @@ hook.Add("HUDPaint", "DarkRP_Mod_HUDPaint", hudPaint)
 
 
 MsgC(Color(0, 255, 0), "Rust HUD v1.0 Loaded")
+
+--[[
+Author: Grey Hellios
+Credits: Adzter (Anwsering questions that I had)
+]]--
